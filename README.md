@@ -45,53 +45,6 @@ Let's bring data to life together!
     </div>
   </div>
 </a>
-
-<a href="https://medium.com/@debs.dezotti/storytelling-com-dados-0e2266979a98?source=rss-530868db65c6------2" target="_blank" style="text-decoration: none; color: inherit;">
-  <div style="
-    background: #f7f9fc;
-    border-radius: 16px;
-    padding: 16px;
-    width: 240px;
-    height: 160px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
-    transition: transform 0.15s ease;
-  ">
-    <div style="font-size: 28px;">✍️</div>
-    <div style="font-weight: 600; font-size: 14px; color: #1a1a1a; line-height: 1.3;">
-      Storytelling com Dados
-    </div>
-    <div style="font-size: 12px; color: #6b6b6b;">
-      Thu Nov 06 2025 8:11 PM
-    </div>
-  </div>
-</a>
-
-<a href="https://medium.com/@debs.dezotti/transforme-dados-em-insight-ffcb21096eaf?source=rss-530868db65c6------2" target="_blank" style="text-decoration: none; color: inherit;">
-  <div style="
-    background: #f7f9fc;
-    border-radius: 16px;
-    padding: 16px;
-    width: 240px;
-    height: 160px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
-    transition: transform 0.15s ease;
-  ">
-    <div style="font-size: 28px;">✍️</div>
-    <div style="font-weight: 600; font-size: 14px; color: #1a1a1a; line-height: 1.3;">
-      Transforme Dados em Insight!
-    </div>
-    <div style="font-size: 12px; color: #6b6b6b;">
-      Thu Oct 30 2025 8:28 PM
-    </div>
-  </div>
-</a>
-
 <!-- MEDIUM-LATEST-POSTS:END -->
   </div>
 </div>
