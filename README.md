@@ -23,27 +23,72 @@ Let's bring data to life together!
 
 <div align="left">
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <!-- MEDIUM-LATEST-POSTS:START --><a href="https://medium.com/@debs.dezotti/n%C3%A3o-precisei-de-meses-para-gerar-impacto-precisei-de-um-m%C3%A9todo-db4f0997013c?source=rss-530868db65c6------2" target="_blank" style="text-decoration: none; flex: 1; min-width: 250px;">
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 14px; height: 100%; box-sizing: border-box;">
-    <h4 style="margin: 0 0 6px 0; font-size: 14px; color: #0366d6;">⚡Não precisei de meses para gerar impacto. Precisei de um método.</h4>
-    <p style="margin: 0 0 8px 0; font-size: 12px; color: #586069;">Tue Nov 25 2025 12:13 AM</p>
-    <p style="margin: 0; font-size: 12px; color: #24292e;"></p>
+    <!-- MEDIUM-LATEST-POSTS:START --><a href="https://medium.com/@debs.dezotti/n%C3%A3o-precisei-de-meses-para-gerar-impacto-precisei-de-um-m%C3%A9todo-db4f0997013c?source=rss-530868db65c6------2" target="_blank" style="text-decoration: none; color: inherit;">
+  <div style="
+    background: #f7f9fc;
+    border-radius: 16px;
+    padding: 16px;
+    width: 240px;
+    height: 160px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    transition: transform 0.15s ease;
+  ">
+    <div style="font-size: 28px;">✍️</div>
+    <div style="font-weight: 600; font-size: 14px; color: #1a1a1a; line-height: 1.3;">
+      ⚡Não precisei de meses para gerar impacto. Precisei de um método.
+    </div>
+    <div style="font-size: 12px; color: #6b6b6b;">
+      Tue Nov 25 2025 12:13 AM
+    </div>
   </div>
 </a>
 
-<a href="https://medium.com/@debs.dezotti/storytelling-com-dados-0e2266979a98?source=rss-530868db65c6------2" target="_blank" style="text-decoration: none; flex: 1; min-width: 250px;">
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 14px; height: 100%; box-sizing: border-box;">
-    <h4 style="margin: 0 0 6px 0; font-size: 14px; color: #0366d6;">Storytelling com Dados</h4>
-    <p style="margin: 0 0 8px 0; font-size: 12px; color: #586069;">Thu Nov 06 2025 8:11 PM</p>
-    <p style="margin: 0; font-size: 12px; color: #24292e;"></p>
+<a href="https://medium.com/@debs.dezotti/storytelling-com-dados-0e2266979a98?source=rss-530868db65c6------2" target="_blank" style="text-decoration: none; color: inherit;">
+  <div style="
+    background: #f7f9fc;
+    border-radius: 16px;
+    padding: 16px;
+    width: 240px;
+    height: 160px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    transition: transform 0.15s ease;
+  ">
+    <div style="font-size: 28px;">✍️</div>
+    <div style="font-weight: 600; font-size: 14px; color: #1a1a1a; line-height: 1.3;">
+      Storytelling com Dados
+    </div>
+    <div style="font-size: 12px; color: #6b6b6b;">
+      Thu Nov 06 2025 8:11 PM
+    </div>
   </div>
 </a>
 
-<a href="https://medium.com/@debs.dezotti/transforme-dados-em-insight-ffcb21096eaf?source=rss-530868db65c6------2" target="_blank" style="text-decoration: none; flex: 1; min-width: 250px;">
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 14px; height: 100%; box-sizing: border-box;">
-    <h4 style="margin: 0 0 6px 0; font-size: 14px; color: #0366d6;">Transforme Dados em Insight!</h4>
-    <p style="margin: 0 0 8px 0; font-size: 12px; color: #586069;">Thu Oct 30 2025 8:28 PM</p>
-    <p style="margin: 0; font-size: 12px; color: #24292e;"></p>
+<a href="https://medium.com/@debs.dezotti/transforme-dados-em-insight-ffcb21096eaf?source=rss-530868db65c6------2" target="_blank" style="text-decoration: none; color: inherit;">
+  <div style="
+    background: #f7f9fc;
+    border-radius: 16px;
+    padding: 16px;
+    width: 240px;
+    height: 160px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    transition: transform 0.15s ease;
+  ">
+    <div style="font-size: 28px;">✍️</div>
+    <div style="font-weight: 600; font-size: 14px; color: #1a1a1a; line-height: 1.3;">
+      Transforme Dados em Insight!
+    </div>
+    <div style="font-size: 12px; color: #6b6b6b;">
+      Thu Oct 30 2025 8:28 PM
+    </div>
   </div>
 </a>
 
