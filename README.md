@@ -17,7 +17,17 @@ Let's bring data to life together!
 ## 🌐 Where to find me
 
 - **[LinkedIn](https://www.linkedin.com/in/d%C3%A9bora-dezotti-77427748/)**
-- **[Medium](https://medium.com/@debs.dezotti)** 
+- **[Medium](https://medium.com/@debs.dezotti)**
+
+## ✍️ Latest Medium Posts
+
+<div align="left">
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <!-- MEDIUM-LATEST-POSTS:START -->
+    <!-- MEDIUM-LATEST-POSTS:END -->
+  </div>
+</div>
+
 <!--
 **debsdezotti/DebsDezotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
