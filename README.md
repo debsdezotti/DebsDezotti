@@ -1,5 +1,5 @@
 ## Debs Dezotti
-** Data Scientist **
+**Data Scientist**
 
 Hi there 👋
 I’m Debora, but you can call me Debs, a data scientist who works end-to-end: from building models and uncovering insights to improving the systems, processes and communication around them.
@@ -16,8 +16,8 @@ Let's bring data to life together!
 
 ## 🌐 Where to find me
 
-- **"[LinkedIn](https://www.linkedin.com/in/d%C3%A9bora-dezotti-77427748/)"**
-- **"[Medium](https://medium.com/@debs.dezotti)"** 
+- **[LinkedIn](https://www.linkedin.com/in/d%C3%A9bora-dezotti-77427748/)**
+- **[Medium](https://medium.com/@debs.dezotti)** 
 <!--
 **debsdezotti/DebsDezotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
