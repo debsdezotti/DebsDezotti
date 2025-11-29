@@ -1,0 +1,41 @@
+name: Update Medium posts
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 1x por dia
+  workflow_dispatch:       # permite rodar na mão
+
+permissions:
+  contents: write          # IMPORTANTE: permite alterar o README
+
+jobs:
+  update-medium:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate Medium posts section
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@debs.dezotti"
+          max_post_count: 3
+          comment_tag_name: "MEDIUM-LATEST-POSTS"
+          disable_html_encoding: true
+          title_max_length: 80
+          description_max_length: 140
+          template: |
+            <a href="$url" target="_blank" style="text-decoration: none; flex: 1; min-width: 250px;">
+              <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 14px; height: 100%; box-sizing: border-box;">
+                <h4 style="margin: 0 0 6px 0; font-size: 14px; color: #0366d6;">$title</h4>
+                <p style="margin: 0 0 8px 0; font-size: 12px; color: #586069;">$date</p>
+                <p style="margin: 0; font-size: 12px; color: #24292e;">$description</p>
+              </div>
+            </a>
+            $newline
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update Medium posts"
